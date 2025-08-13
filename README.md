@@ -302,7 +302,7 @@ kubectl get pods -n analytics
 - **XSS Protection** with Helmet.js
 - **CORS Configuration** for cross-origin requests
 
-## 📈 Monitoring
+## 📈 Monitoring (work in progress not yet finished)
 
 The API exposes Prometheus-compatible metrics:
 
